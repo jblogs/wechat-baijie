@@ -33,7 +33,7 @@ pyinstaller .\\get_exe.spec
 
 #### 感谢
 
-此项目的很大部分 code 借鉴了 [https://github.com/frica01/WeChat-mass-msg] 使用 python 在 windows 下自动化操作微信窗口的方式。在操作处理上，加入了更多线程进度控制的优化，以免人为中断时界面跑死，产生不可预料的结果。
+此项目的很大部分 code 借鉴了 https://github.com/frica01/WeChat-mass-msg 使用 python 在 windows 下自动化操作微信窗口的方式。在操作处理上，加入了更多线程进度控制的优化，以免人为中断时界面跑死，产生不可预料的结果。
 
 #### 许可与免责
 
