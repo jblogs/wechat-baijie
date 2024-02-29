@@ -1,0 +1,7 @@
+*.csv
+
+@AutomationLog.txt
+
+build
+
+**/__pycache__
